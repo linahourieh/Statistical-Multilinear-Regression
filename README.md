@@ -10,3 +10,14 @@ Statistical models began evolving in the 18th century in response to the novel n
 Machine learning is a very recent development. It came into existence in the 1990s as steady advances in digitization and cheap computing power enabled data scientists to stop building finished models and instead train computers to do so. 
 
 
+3- Type of Data 
+Machine learning does really well with a wide (high number of attributes) and deep (high number of observations). However statistical modeling is generally applied for smaller data with fewer attributes or they end up overfitting.
+
+
+
+5- Aim
+The ML Linear Regression model is designed to make the most accurate prediction possible of y. While the statistical Linear Regression model is designed for inference about the relationships between y and x.
+Statistical models are mainly used for research purposes, while ML models are optimal for implementation in the production environment.
+
+
+
